@@ -11,7 +11,7 @@ subprojects:
       - "codecov/project/api-tests"
   - id: Client
     paths:
-      - "clients/**"
+      - "client/**"
     checks:
       - "Client Unit Tests"
       - "codecov/project"
